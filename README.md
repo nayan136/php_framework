@@ -1,3 +1,3 @@
 It is MVC PHP Framework.
 
-Class for easy access of mysql database.
+Class for easy access to mysql database.
